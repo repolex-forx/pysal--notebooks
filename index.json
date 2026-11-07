@@ -1,0 +1,11 @@
+{
+  "org": "pysal",
+  "repo": "notebooks",
+  "versions": [
+    {
+      "commit": "55a073041ad8542cdae18dda413c1a961481dc6c",
+      "tag": "",
+      "parsed_at": "2026-11-07T23:40:31.241557+00:00"
+    }
+  ]
+}
